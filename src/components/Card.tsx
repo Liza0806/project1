@@ -8,8 +8,10 @@ export function Card(){
     return (
       <StyledCard>
         <StyledImgContainer>
-       <StyledImg src='/images/Rectangle.png' alt='CardImg' ></StyledImg>
-       <HelloImg src='/images/dimych.png' alt='dimych'></HelloImg>
+    
+       <StyledImg src="https://i.postimg.cc/PrkrQsVr/Rectangle.png" alt="Rectangle"/>
+       <HelloImg src='https://i.postimg.cc/PfD5Dr4R/dimych.png' alt='dimych'/>
+       
        </StyledImgContainer>
         <CardInfo/>
         <CardBtn/>
